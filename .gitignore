@@ -1,0 +1,10 @@
+__pycache__
+diabetes_prediction_dataset.csv
+acuracias.png
+matriz_confusaoAdaBoost.png
+matriz_confusaoKNN.png
+matriz_confusaoMLP.png
+matriz_confusaoRandomForest.png
+outliers.png
+tempos_fitting.png
+tempos_predicao.png
